@@ -15,7 +15,7 @@ function Nav()
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
+                {/* <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
                         <a href="about.html" class="nav-item nav-link">About</a>
@@ -37,7 +37,7 @@ function Nav()
                         <a href="contact.html" class="nav-item nav-link">Contact</a>
                     </div>
                     <a href="" class="btn btn-primary px-3 d-none d-lg-flex">Login</a>
-                </div>
+                </div> */}
             </nav>
         </div>
         {/* Navbar End */}
